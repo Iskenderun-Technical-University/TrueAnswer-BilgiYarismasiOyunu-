@@ -6,38 +6,4 @@ Bilgi yarışması , kelime oyunu, bulmaca vb. oyunlara baktığımızda aslınd
 
 Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda karşımıza çıkan karmaşık arayüz tasarımlarıdır.Bu projede ise amaca yönelik , oynayışı  daha verimli ve daha kullanışlı hale getirecek bir arayüz tasarımı gerçekleştirmeyi hedefliyoruz. Ayrıca yine bu tarz oyunlarda kullanılan, oyunu daha akıcı ve zevkli hale getiren  ve rekabeti arttıran joker özelliğini geliştirerek diğer oyunlardan farklı olarak "soruyu doğru olarak geçme" ve "süreyi durdurma" gibi jokerler geliştirmeyi hedefliyoruz. Reklamlar konusuna geldiğimizde ise sürekli karşımıza çıkan , oyunun akşını bölen ve kullanıcıları rahatsız eden reklamları daha az seviyeye indirerek daha kullanışlı bir oyun ortamı sağlamayı amaçlıyoruz. Oyun içi alım satımların olduğu oyunlarda  satılan, oyunu kolaylaştıran özellikleri çok yüksek fiyatlardan satıldığını görmekteyiz biz ise bu fiyatları daha makul fiyatlarda tutarak herkesin yararlanabileceği bir oyun içi mağaza hazırlmayı hedefliyoruz.
                  
-                                                             USE CASE DİAGRAM
-
-![emre](https://user-images.githubusercontent.com/78305632/158360059-d58dc773-1102-417b-b9ce-6d76b99c1739.jpeg)
-
-                                                             Görev Listesi
-- [ ] 1. Oyun Tasarımını Oluşturma (*Ziya Talha Karaca*) @talhakaracaa 
-- [ ] 2. Oyun İçi Soruların Hazırlanması(*Hüseyin Emre Akpınar*) @emre0146 
-- [ ] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 
-- [ ]  4. Google Firebase  Authentication Oluşturulması (*Doğuhan Arılık*) @doguarilik 
-- [ ]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik
-
-
-                                                   Oyun Tasarımını Oluşturma @talhakaracaa
-                                     
-- [ ] 1. Tasarımın planlanması  (04.04.2022)
-     - [ ] 1.1 Anasayfa Ekranı (06.04.2022)
-     - [ ] 1.2 Oyun Ekranı (08.04.2022)
-     - [ ] 1.3 Ayarlar Ekranı (10.04.2022)
-     - [ ] 1.4 Mağaza Ekranı (12.04.2022)
-     - [ ] 1.5 Kullanıcı Sıralaması Ekranı (14.04.2022)
-- [ ] 2. Oyun için görsellerin Adobe Photoshop uygulamasıyla oluşturulması (20.04.2022) 
-- [ ] 3. Oyun logosunun tasarımı (.png , .ico ) (24.04.2022)
-- [ ] 4. Oyun içi ses efektlerinin belirlenmesi  (27.04.2022)
-- [ ] 5. Oluşturulan görsellerin, unity oyun motoruna uygulanması (31.05.2022)
-
-
-                                                    Oyun İçi Soruların Hazırlanması @emre0146
-                                     
-- [ ] 1. Proje sorularının hazırlanması (30.04.2022)
-     - [ ] 1.1 100 sorunun hazırlanması (1. Part) (10.04.2022)
-     - [ ] 1.2 100 sorunun hazırlanması (2. Part) (15.04.2022)
-     - [ ] 1.3 100 sorunun hazırlanması (3. Part) (30.04.2022)
-- [ ] 2. Hazırlanan soruların zorluk seviyesine göre ayrıştırılması (05.05.2022)
-- [ ] 3. Soruların .xml olarak unity oyun motoruna eklenmesi (25.05.2022)
-
+                                                            

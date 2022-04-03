@@ -5,10 +5,12 @@ Yapılan araştırmalar, her geçen yıl antrenmansız kalan beynimizin bilgi i�
 Bilgi yarışması , kelime oyunu, bulmaca vb. oyunlara baktığımızda aslında hepsinin amacının aynı olduğu görmekteyiz.Bu tür projeler de  genel olarak çevirimiçi veya çevirimdışı oynama imkanı olduğunu görüyoruz.Çevirimiçi oyunlar genelde karşılıklı iki kişinin oynadığı oyunlar olurken çevirimdışı oyunlarda ise bu tek kişilik oyunlar oluyor.Oyunlarda ki amaç kullanıcın bildiği her soru üzerinden bir skor elde etmesi ve bu skor üzerinden kullancıların karşılıklı bir yarış halinde olması gibi kurallar içeriyor.En büyük sorun ise bu tür oyunlarda soruların birbiri ile benzerliği ve bir anda zorlaşan soru kalıplarıdır.Bu yüzden kullanıcı kayıplarının yaşandığını ve oyunun süreklilğini kaybettiğini gözlemliyoruz. 
 
 Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda karşımıza çıkan karmaşık arayüz tasarımlarıdır.Bu projede ise amaca yönelik , oynayışı  daha verimli ve daha kullanışlı hale getirecek bir arayüz tasarımı gerçekleştirmeyi hedefliyoruz. Ayrıca yine bu tarz oyunlarda kullanılan, oyunu daha akıcı ve zevkli hale getiren  ve rekabeti arttıran joker özelliğini geliştirerek diğer oyunlardan farklı olarak "soruyu doğru olarak geçme" ve "süreyi durdurma" gibi jokerler geliştirmeyi hedefliyoruz. Reklamlar konusuna geldiğimizde ise sürekli karşımıza çıkan , oyunun akşını bölen ve kullanıcıları rahatsız eden reklamları daha az seviyeye indirerek daha kullanışlı bir oyun ortamı sağlamayı amaçlıyoruz. Oyun içi alım satımların olduğu oyunlarda  satılan, oyunu kolaylaştıran özellikleri çok yüksek fiyatlardan satıldığını görmekteyiz biz ise bu fiyatları daha makul fiyatlarda tutarak herkesin yararlanabileceği bir oyun içi mağaza hazırlmayı hedefliyoruz.
- 
+                 
+                                                             USE CASE DİAGRAM
 
+![emre](https://user-images.githubusercontent.com/78305632/158360059-d58dc773-1102-417b-b9ce-6d76b99c1739.jpeg)
 
-Görev Listesi
+                                                             Görev Listesi
 - [ ] 1. Oyun Tasarımını Oluşturma (*Ziya Talha Karaca*) @talhakaracaa 
 - [ ] 2. Oyun İçi Soruların Hazırlanması(*Hüseyin Emre Akpınar*) @emre0146 
 - [ ] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 

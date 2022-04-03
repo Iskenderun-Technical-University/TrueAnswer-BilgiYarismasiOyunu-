@@ -10,7 +10,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 
 ![emre](https://user-images.githubusercontent.com/78305632/158360059-d58dc773-1102-417b-b9ce-6d76b99c1739.jpeg)
 
-                                                  Görev Listesi
+                                                                Görev Listesi
 - [ ] 1. Oyun Tasarımını Oluşturma (*Ziya Talha Karaca*) @talhakaracaa 
 - [ ] 2. Oyun İçi Soruların Hazırlanması(*Hüseyin Emre Akpınar*) @emre0146 
 - [ ] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 

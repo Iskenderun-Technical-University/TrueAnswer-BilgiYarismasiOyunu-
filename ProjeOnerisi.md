@@ -6,3 +6,11 @@ Bilgi yarışması , kelime oyunu, bulmaca vb. oyunlara baktığımızda aslınd
 
 Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda karşımıza çıkan karmaşık arayüz tasarımlarıdır.Bu projede ise amaca yönelik , oynayışı  daha verimli ve daha kullanışlı hale getirecek bir arayüz tasarımı gerçekleştirmeyi hedefliyoruz. Ayrıca yine bu tarz oyunlarda kullanılan, oyunu daha akıcı ve zevkli hale getiren  ve rekabeti arttıran joker özelliğini geliştirerek diğer oyunlardan farklı olarak "soruyu doğru olarak geçme" ve "süreyi durdurma" gibi jokerler geliştirmeyi hedefliyoruz. Reklamlar konusuna geldiğimizde ise sürekli karşımıza çıkan , oyunun akşını bölen ve kullanıcıları rahatsız eden reklamları daha az seviyeye indirerek daha kullanışlı bir oyun ortamı sağlamayı amaçlıyoruz. Oyun içi alım satımların olduğu oyunlarda  satılan, oyunu kolaylaştıran özellikleri çok yüksek fiyatlardan satıldığını görmekteyiz biz ise bu fiyatları daha makul fiyatlarda tutarak herkesin yararlanabileceği bir oyun içi mağaza hazırlmayı hedefliyoruz.
  
+
+
+Görev Listesi
+- [ ] 1. Oyun Tasarımını Oluşturma (*Ziya Talha Karaca*) @talhakaracaa 
+- [ ] 2. Oyun İçi Soruların Hazırlanması(*Hüseyin Emre Akpınar*) @emre0146 
+- [ ] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 
+- [ ]  4. Google Firebase  Authentication Oluşturulması (*Doğuhan Arılık*) @doguarilik 
+- [ ]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik

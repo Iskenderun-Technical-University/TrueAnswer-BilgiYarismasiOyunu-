@@ -53,7 +53,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 - [ ] 1. Ayarlar Sayfasının Kodlanması (05.05.2022)
 - [ ] 2. Mağaza Sayfasının Kodlanması (15.05.2022)
 
-                                             Projenenin Kodlanması @doguarilik
+                                               Projenenin Kodlanması @doguarilik
 
 
 - [ ] 1. Anasayfa Sayfasının Kodlanlanması( 07.04.2022)
@@ -61,7 +61,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 
                                                
 
-                         Google Firebase Authentication Bağlantılarının Yapılması @doguarilik
+                             Google Firebase Authentication Bağlantılarının Yapılması @doguarilik
                                                           
                                                           
 - [ ] 1. Bir Firebase Projesini Oluşturma (15.05.2022)

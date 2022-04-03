@@ -1,7 +1,7 @@
                                                      Projenenin Kodlanması @doguarilik
 
 
-- [ ] 1. Anasayfa Ekranın Kodlanlanması( 07.04.2022)
+- [ ] 1. Anasayfa Sayfasının Kodlanlanması( 07.04.2022)
 - [ ] 2. Oyun Sayfasının Kodlanması (20.04.2022)
 
                                                

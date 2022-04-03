@@ -1,4 +1,4 @@
-                                     Oyun Tasarımını Oluşturma @talhakaracaa
+                                         Oyun Tasarımını Oluşturma @talhakaracaa
                                      
 - [ ] 1. Tasarımın planlanması  (14.04.2022)
      - [ ] 1.1 Anasayfa Ekranı (06.04.2022)
@@ -11,7 +11,7 @@
 - [ ] 4. Oyun içi ses efektlerinin belirlenmesi (27.04.2022)
 - [ ] 5. Oluşturulan görsellerin, unity oyun motoruna uygulanması (31.04.2022)
                                      
-                                    Projenin Kodlanması
+                                        Projenin Kodlanması
                                      
 - [ ] 1. Kullanıcı Sayfasının Kodlanması (05.05.2022)
 - [ ] 2. Kullanıcı Kayıt Sayfasının Kodlanması (15.05.2022)

@@ -9,10 +9,9 @@
 - [ ] 2. Hazırlanan soruların zorluk seviyesine göre ayrıştırılması (02.05.2022)
 - [ ] 3. Soruların .xml olarak unity oyun motoruna eklenmesi (03.05.2022)
 
-
-                                            
+  
                                                Projenin Kodlanması @emre0146
 
 - [ ] 1. Ayarlar Sayfasının Kodlanması (05.05.2022)
-- [ ] 2. Mağaza Ekranının Kodlanması (15.05.2022)
+- [ ] 2. Mağaza Sayfasının Kodlanması (15.05.2022)
                                             

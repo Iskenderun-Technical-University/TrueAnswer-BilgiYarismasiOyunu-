@@ -61,7 +61,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 
                                                
 
-                             Google Firebase Authentication Bağlantılarının Yapılması @doguarilik
+                                  Google Firebase Authentication Bağlantılarının Yapılması @doguarilik
                                                           
                                                           
 - [ ] 1. Bir Firebase Projesini Oluşturma (15.05.2022)
@@ -72,7 +72,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 
 
 
-                               Google Mobile Ads Bağlantılarının Yapılması  @doguarilik
+                                      Google Mobile Ads Bağlantılarının Yapılması  @doguarilik
                                                        
                                                        
 - [ ] 1. Admob Hesabı Açma ( 23.05.2022)

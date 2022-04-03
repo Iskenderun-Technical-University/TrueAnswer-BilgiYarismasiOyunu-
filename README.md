@@ -1,4 +1,4 @@
-                             True Answer (Doğru Cevap) Bilgi Yarışması Oyunu 
+                                True Answer (Doğru Cevap) Bilgi Yarışması Oyunu 
 
 Yapılan araştırmalar, her geçen yıl antrenmansız kalan beynimizin bilgi işlem hızının biraz daha yavaşladığını ve daha fazla unuttuğumuzu, birde eğer akıl ve zeka oyunları oynamaz isek beynimizin olumsuz yönde performans kaybederek değiştiğini gösteriyor. Kelime oyunları oynamak gibi aktiviteler beyne egzersiz yaptırdığı için odaklanmayı ve hatırlamayı arttırıyor. Beyni yaşlanmaya, Demans ve Alzheimer gibi beyni tüketen hastalıklara karşı korumaktadır.Bu sebepler dışında kişilerin boş zamanlarında kelime hazinelerini geliştirerek, genel kültür seviyelerine katkıda bulunmak, daha önce edindiği bilgileri taze tutmasını, her yaştan insana hitap etmesi ve hızlı düşünmeyi sağlamak amacıyla bu projeyi geliştirme ihtiyacı duyduk.
 
@@ -32,7 +32,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 - [ ] 5. Oluşturulan görsellerin, unity oyun motoruna uygulanması (31.05.2022)
 
 
-                                       Oyun İçi Soruların Hazırlanması @emre0146
+                                     Oyun İçi Soruların Hazırlanması @emre0146
                                      
 - [ ] 1. Proje sorularının hazırlanması (30.04.2022)
      - [ ] 1.1 100 sorunun hazırlanması (1. Part) (10.04.2022)

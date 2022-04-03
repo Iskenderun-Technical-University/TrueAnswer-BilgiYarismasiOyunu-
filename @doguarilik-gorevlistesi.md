@@ -1,7 +1,7 @@
                                                      Projenenin Kodlanması @doguarilik
 
 
-- [ ] 1. Anasayfa Sayfasının Kodlanlanması( 07.04.2022)
+- [ ] 1. Anasayfa Sayfasının Kodlanlanması (07.04.2022)
 - [ ] 2. Oyun Sayfasının Kodlanması (20.04.2022)
 
                                                
@@ -20,8 +20,8 @@
                                            Google Mobile Ads Bağlantılarının Yapılması  @doguarilik
                                                        
                                                        
-- [ ] 1. Admob Hesabı Açma ( 23.05.2022)
-- [ ] 2. Mboile Ads Unity Eklentisini İçe Aktarma ( 24.05.2022)
-- [ ] 3. Mobil Reklamlar SDK'sını Ekleme ( 25.05.2022)
-- [ ] 4. Admob Uygulama Kimliğini Belirleme ( 26.05.2022)
-- [ ] 5. Mobil Reklam SDK'sını Başlatma ( 27.05.2022)
+- [ ] 1. Admob Hesabı Açma (23.05.2022)
+- [ ] 2. Mboile Ads Unity Eklentisini İçe Aktarma (24.05.2022)
+- [ ] 3. Mobil Reklamlar SDK'sını Ekleme (25.05.2022)
+- [ ] 4. Admob Uygulama Kimliğini Belirleme (26.05.2022)
+- [ ] 5. Mobil Reklam SDK'lerini Başlatma (27.05.2022)

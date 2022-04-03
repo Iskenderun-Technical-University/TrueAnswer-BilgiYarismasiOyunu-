@@ -18,7 +18,7 @@ Bu projeye benzer bilgi yarışması oyunlarına baktığımızda ilk etapda kar
 - [ ]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik
 
 
-                                       Oyun Tasarımını Oluşturma @talhakaracaa
+                                       Oyun Tasarımını Oluşturma @talhakaracaa 
                                      
 - [ ] 1. Tasarımın planlanması  (14.04.2022)
      - [ ] 1.1 Anasayfa Ekranı (06.04.2022)
